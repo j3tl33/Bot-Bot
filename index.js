@@ -74,4 +74,4 @@ client.channels.cache.get("884642153169551451").send(`Welcome to NIGHT LYFE!!, $
 
 
 
- client.login(process.env.token);
+ client.login("NjEwNzI4OTgyMzQxNjE1NjE2.XVJfsA.SVRWd3u6gjDS9XmgkXwBvWUF5D8");
